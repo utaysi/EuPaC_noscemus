@@ -1,8 +1,8 @@
-#  [Repository title]
+#  EuPaC - Getting Started
 
 ---
 ## Authors
-* [list of all contributors, with their institutional email and ORCID]
+* EuPaC hackathon organizing team
 
 
 ## License
@@ -11,22 +11,15 @@ CC-BY-SA 4.0, see attached License.md
 ---
 ## Description
 
-[What is the purpose of this repo? Is it related to any specific dataset or publication output?]
+This repo is for all participants in the EuPaC hackathon. It serves as a starting point for all groups. It gives you basic instructions for accessing individual datasets.
+
+
 
 ## Getting started
 
 ```bash
 git clone [url-of-the-git-file]
 cd [name-of-the-repo]
-pip install -r requirements.txt
 ```
 
-Go to `scripts` and run the notebooks
-
-## How to cite
-
-[once a release is created and published via zenodo, put its citation here]
-
-## Ackwnowledgement
-
-[This work has been supported by ...]
+Go to `scripts` and run the notebook of your interest
