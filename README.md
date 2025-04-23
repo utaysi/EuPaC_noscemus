@@ -17,9 +17,13 @@ This repo is for all participants in the EuPaC hackathon. It serves as a startin
 
 ## Getting started
 
+(1) Clone the repo
 ```bash
 git clone [url-of-the-git-file]
-cd [name-of-the-repo]
 ```
+(2) move into it
+```bash
+cd EuPaC shared
+```
+(3) run jupoyter notebook of your preference
 
-Go to `scripts` and run the notebook of your interest
