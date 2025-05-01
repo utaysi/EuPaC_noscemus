@@ -48,7 +48,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/pribehy-dat",
+    "last_opened_file_path": "/home/jupyter-vojta/notebooks/EuPaC_shared/scripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,8 +101,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../scriptum/scripts" />
       <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/../scriptum/scripts" />
       <recent name="/srv/data/scriptum" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -128,7 +128,7 @@
       <updated>1745992924929</updated>
       <workItem from="1745992926080" duration="783000" />
       <workItem from="1745993732925" duration="10396000" />
-      <workItem from="1746084876919" duration="13688000" />
+      <workItem from="1746084876919" duration="18005000" />
     </task>
     <servers />
   </component>

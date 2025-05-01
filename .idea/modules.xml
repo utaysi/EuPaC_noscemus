@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/EuPaC_shared.iml" filepath="$PROJECT_DIR$/.idea/EuPaC_shared.iml" />
       <module fileurl="file:///srv/data/.idea/data.iml" filepath="/srv/data/.idea/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" filepath="$PROJECT_DIR$/../noscemus_ETF/.idea/noscemus_ETF.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pribehy-dat/.idea/pribehy-dat.iml" filepath="$PROJECT_DIR$/../pribehy-dat/.idea/pribehy-dat.iml" />
       <module fileurl="file://$PROJECT_DIR$/../scriptum/.idea/scriptum.iml" filepath="$PROJECT_DIR$/../scriptum/.idea/scriptum.iml" />
     </modules>

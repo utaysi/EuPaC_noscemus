@@ -1,4 +1,4 @@
-#  EuPaC - Getting Started
+#  EuPaC - basic info
 
 ---
 ## Authors
