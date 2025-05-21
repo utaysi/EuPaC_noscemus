@@ -90,7 +90,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.12166667" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34833333" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="mopdf" order="6" weight="0.19062501" />
@@ -103,7 +103,7 @@
       <window_info anchor="right" id="ElectroJunToolWindow" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
-      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.08923611" />
+      <window_info active="true" anchor="right" id="AIAssistant" order="1" visible="true" weight="0.3559028" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
@@ -145,7 +145,7 @@
       <workItem from="1747148686811" duration="3840000" />
       <workItem from="1747467946196" duration="28000" />
       <workItem from="1747823928930" duration="295000" />
-      <workItem from="1747824237665" duration="1743000" />
+      <workItem from="1747824237665" duration="2571000" />
     </task>
     <servers />
   </component>
